@@ -1,0 +1,74 @@
+body {
+    background-color: #333;
+}
+main {
+    background-color: #000;
+}
+
+.sectimg {
+    border: 5px solid #fff;
+    background-color: #333;
+}
+
+nav {
+    font-size: 15pt;
+}
+
+.navbar-brand {
+    font-size: 20pt;
+}
+
+
+#carouselExampleCaptions{
+    width: 60%;
+    height: 65%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.sectsld {
+    border: 1px solid #fff;
+    background-color: #333;
+}
+
+
+.form-control me-2 {
+    width: 30%;
+}
+
+#title {
+    border-top: 4px solid #fff;
+    border-bottom: 4px solid #fff;
+    margin-top: 20px;
+    background-color:#333 ;
+    font-weight: bolder;
+    font-size: 30pt;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imgs {
+    width: 70%;
+    height: 100%;
+}
+
+.imgs1 {
+    margin-top: 25px;
+    width: 70%;
+    height: 80%;
+}
+
+.jogos {
+    width: 250px;
+    height: 270px;
+}
+
+#trocapag {
+    float: left;
+    color: #000;
+}
+
+
+#title2 {
+    text-align: center;
+}
